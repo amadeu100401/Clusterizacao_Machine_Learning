@@ -17,6 +17,7 @@
 <p>
   <h1>Instruções</h1>
   • Para executar o notebook, abrir o arquivo "Atividade_clusterização.ipynb".
+  </br> Para baixar a base de dados acesse este link: <a>https://docs.google.com/spreadsheets/d/1vqmOpX98NyYyb0Z5O7GbzRZw6yf7ERpZ/edit?usp=sharing&ouid=111034715344227934990&rtpof=true&sd=true</a>
   </br>• Após o arquivo aberto, basta clicar no botão "Open in Colab", que você será redirecionado para o notebook no colab. 
   </br>• Caso deseje rodar o programa, basta clicar em ctrl + F9 que irá executar todos os módulo. 
   </br>• Sobre as análises e outros detalhes, é possível encontrar informações no própio notebook. 
